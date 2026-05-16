@@ -67,7 +67,7 @@ const AboutMe = () => {
             <div className="absolute -inset-4 rotate-3 rounded-[34px] bg-pink-200/70" />
 
             <Image
-              src={getImgPath("/images/home/about-me/about-banner-img.jpg")}
+              src={getImgPath("/images/home/about-me/about-banner-img.JPG")}
               alt="about-banner"
               width={330}
               height={460}
