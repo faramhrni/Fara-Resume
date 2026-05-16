@@ -1,0 +1,15 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="35" cy="35" r="35" fill="#EC4899"/>
+  <text
+    x="50%"
+    y="52%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="white"
+    font-size="34"
+    font-family="Arial, sans-serif"
+    font-weight="700"
+  >
+    F
+  </text>
+</svg>

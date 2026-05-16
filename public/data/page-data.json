@@ -1,0 +1,89 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "farad069@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:farad069@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "0814-4008-6672",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:081440086672"
+      },
+      {
+        "type": "website",
+        "label": "github.com/faramhrni",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://github.com/faramhrni"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/faramhrni/"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/faramhrni"
+      },
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://instagram.com/faramhrni"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Sriwijaya University — 2022 - 2026",
+        "description": "Bachelor of Mathematics with focus on data analysis, statistics, and programming."
+      },
+      {
+        "title": "SMAN 1 Pangkal Pinang — 2018 - 2021",
+        "description": "Major in Natural Sciences."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Excel",
+        "icon": "/images/home/education-skill/excel-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/home/education-skill/sql-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "HTML",
+        "icon": "/images/home/education-skill/html-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "CSS",
+        "icon": "/images/home/education-skill/css-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "JS",
+        "icon": "/images/home/education-skill/js-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [],
+    "contactInfo": []
+  }
+}

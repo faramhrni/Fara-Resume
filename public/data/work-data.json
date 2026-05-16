@@ -1,0 +1,93 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.png",
+      "title": "Supermarket Business Analytics Dashboard",
+      "client": "Portfolio Project",
+      "link": "https://docs.google.com/spreadsheets/d/1QH5EUxmCV3goWza_XGVv5W5WqIX5N3Ze/edit?usp=sharing&ouid=104569492564557025464&rtpof=true&sd=true",
+      "description": "Dashboard ini adalah Business Intelligence Dashboard untuk analisis penjualan supermarket yang digunakan untuk memantau performa bisnis secara interaktif dan real-time. Fokus utamanya ada pada sales, profit, kategori produk, metode pembayaran, dan perilaku pelanggan supaya membantu pengambilan keputusan berbasis data.",
+      "skills": [
+        "Microsoft Excel",
+        "Google Sheets",
+        "Looker Studio",
+        "Data Visualization",
+        "Data Analysis",
+        "Dashboard Design",
+        "SQL",
+        "Data Cleaning",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "image": "/images/work/work-img-2.png",
+      "title": "Klasifikasi Penyakit Ginjal dengan Metode Ensemble",
+      "client": "Portfolio Project",
+      "link": "https://github.com/faramhrni/gagal-ginjal",
+      "description": "Project machine learning untuk membantu proses klasifikasi penyakit ginjal menggunakan metode ensemble agar hasil prediksi menjadi lebih optimal.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Ensemble Method",
+        "Data Preprocessing",
+        "Data Cleaning",
+        "Model Evaluation",
+        "Classification",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "image": "/images/work/work-img-3.png",
+      "title": "Land Application Monitoring Dashboard",
+      "client": "PT TIMAH TBK",
+      "link": "https://drive.google.com/file/d/1S4kLtSZWaZHy8wE9t2ulzayYM0oCq7Rd/view?usp=drive_link",
+      "description": "Dashboard monitoring land application untuk membantu pemantauan data lahan, status pengajuan, progres pekerjaan, dan informasi operasional secara terstruktur.",
+      "skills": [
+        "Dashboard Design",
+        "Data Visualization",
+        "Data Analysis",
+        "MySql",
+        "HTML",
+        "CSS",
+        "Java Script",
+        "Data Cleaning",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "image": "/images/work/work-img-4.png",
+      "title": "Heisya Pharm",
+      "client": "Portfolio Project",
+      "link": "https://heisya-pharm-kf9v.vercel.app/",
+      "description": "Website farmasi yang dirancang untuk menampilkan informasi produk, layanan, dan profil bisnis secara modern, rapi, dan mudah digunakan.",
+      "skills": [
+        "CSS",
+        "HTML",
+        "Java Script",
+        "TypeScript",
+        "Tailwind CSS",
+        "Responsive Design",
+        "UI Design",
+        "Web Development",
+        "Frontend Development"
+      ]
+    },
+    {
+      "image": "/images/work/work-img-5.png",
+      "title": "Warung Mambo",
+      "client": "BCA",
+      "link": "https://warung-mambo.vercel.app/",
+      "description": "Website ini berfungsi sebagai media digital untuk memperkenalkan Warung Mambo, mulai dari profil usaha, produk yang dijual, lokasi, hingga informasi pemesanan.",
+      "skills": [
+       "CSS",
+        "HTML",
+        "Java Script",
+        "TypeScript",
+        "Tailwind CSS",
+        "Responsive Design",
+        "UI Design",
+        "Web Development",
+        "Frontend Development"
+      ]
+    }
+  ]
+}
